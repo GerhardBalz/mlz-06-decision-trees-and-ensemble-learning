@@ -1,0 +1,15 @@
+[project]
+name = "mlzoomcamp-2026-trees"
+version = "0.1.0"
+description = "ML Zoomcamp 2026 Homework 6 isolated learning environment"
+requires-python = "==3.11.*"
+dependencies = [
+    "numpy==2.3.3",
+    "pandas==2.3.2",
+    "scikit-learn==1.7.2",
+    "xgboost==3.2.0",
+    "ipykernel",
+    "nbformat",
+    "matplotlib",
+    "seaborn",
+]
